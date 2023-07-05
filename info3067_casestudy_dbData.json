@@ -8,7 +8,7 @@
         "QtyOnHand": 100,
         "QtyOnBackOrder": 5,
         "Description": "High-quality cat food with essential nutrients for optimal feline health and vitality.",
-        "BrandId": "Whisker's Choice"
+        "Brand": "Whisker's Choice"
     },
     {
         "Id": "2",
@@ -19,7 +19,7 @@
         "QtyOnHand": 75,
         "QtyOnBackOrder": 0,
         "Description": "Balanced cat food made from natural ingredients to support your cat's overall well-being and immune system.",
-        "BrandId": "Whisker's Choice"
+        "Brand": "Whisker's Choice"
     },
     {
         "Id": "3",
@@ -30,7 +30,7 @@
         "QtyOnHand": 50,
         "QtyOnBackOrder": 10,
         "Description": "Organic and natural cat food made from high-quality ingredients to provide a wholesome and nutritious diet for your feline companion.",
-        "BrandId": "Whisker's Choice"
+        "Brand": "Whisker's Choice"
     },
     {
         "Id": "4",
@@ -41,7 +41,7 @@
         "QtyOnHand": 120,
         "QtyOnBackOrder": 2,
         "Description": "Indulgent cat food with a variety of flavors and textures to satisfy even the most discerning feline palate.",
-        "BrandId": "Purrfect Naturals"
+        "Brand": "Purrfect Naturals"
     },
     {
         "Id": "5",
@@ -52,7 +52,7 @@
         "QtyOnHand": 90,
         "QtyOnBackOrder": 0,
         "Description": "Wholesome grain-free cat food specially formulated for cats with dietary sensitivities or allergies, providing them with a delicious and nutritious meal.",
-        "BrandId": "Purrfect Naturals"
+        "Brand": "Purrfect Naturals"
     },
     {
         "Id": "6",
@@ -63,7 +63,7 @@
         "QtyOnHand": 60,
         "QtyOnBackOrder": 3,
         "Description": "Tailored nutrition for senior cats, promoting healthy aging and supporting joint health and mobility.",
-        "BrandId": "Purrfect Naturals"
+        "Brand": "Purrfect Naturals"
     },
     {
         "Id": "7",
@@ -74,7 +74,7 @@
         "QtyOnHand": 80,
         "QtyOnBackOrder": 0,
         "Description": "Specially formulated cat food to help maintain a healthy weight, managing calorie intake while ensuring proper nutrition.",
-        "BrandId": "Meow Mix Delights"
+        "Brand": "Meow Mix Delights"
     },
     {
         "Id": "8",
@@ -85,7 +85,7 @@
         "QtyOnHand": 70,
         "QtyOnBackOrder": 1,
         "Description": "Gentle and easily digestible cat food for cats with sensitive stomachs, promoting optimal digestive health and minimizing digestive upset.",
-        "BrandId": "Meow Mix Delights"
+        "Brand": "Meow Mix Delights"
     },
     {
         "Id": "9",
@@ -96,7 +96,7 @@
         "QtyOnHand": 30,
         "QtyOnBackOrder": 0,
         "Description": "Nutrient-rich cat food specially designed to support healthy growth and development in kittens, providing them with essential vitamins and minerals.",
-        "BrandId": "Meow Mix Delights"
+        "Brand": "Meow Mix Delights"
     },
     {
         "Id": "10",
@@ -107,7 +107,7 @@
         "QtyOnHand": 110,
         "QtyOnBackOrder": 4,
         "Description": "Specialized cat food that helps reduce hairballs by promoting healthy digestion and minimizing shedding.",
-        "BrandId": "Whisker's Choice"
+        "Brand": "Whisker's Choice"
     },
     {
         "Id": "11",
@@ -118,7 +118,7 @@
         "QtyOnHand": 65,
         "QtyOnBackOrder": 0,
         "Description": "Nutritionally balanced cat food designed for outdoor cats, providing them with the energy and nutrients they need for an active outdoor lifestyle.",
-        "BrandId": "Purrfect Naturals"
+        "Brand": "Purrfect Naturals"
     },
     {
         "Id": "12",
@@ -129,7 +129,7 @@
         "QtyOnHand": 150,
         "QtyOnBackOrder": 2,
         "Description": "Wholesome and delicious cat treats made from natural ingredients, perfect for rewarding your furry friend or training purposes.",
-        "BrandId": "Meow Mix Delights"
+        "Brand": "Meow Mix Delights"
     },
     {
         "Id": "13",
@@ -140,7 +140,7 @@
         "QtyOnHand": 85,
         "QtyOnBackOrder": 0,
         "Description": "Specially formulated cat food for indoor cats, promoting a healthy weight, minimizing hairballs, and supporting urinary tract health.",
-        "BrandId": "Whisker's Choice"
+        "Brand": "Whisker's Choice"
     },
     {
         "Id": "14",
@@ -151,7 +151,7 @@
         "QtyOnHand": 40,
         "QtyOnBackOrder": 3,
         "Description": "Grain-free cat food featuring high-quality salmon as the main ingredient, providing a tasty and nutritious option for cats with seafood preferences.",
-        "BrandId": "Purrfect Naturals"
+        "Brand": "Purrfect Naturals"
     },
     {
         "Id": "15",
@@ -162,6 +162,6 @@
         "QtyOnHand": 55,
         "QtyOnBackOrder": 0,
         "Description": "Hypoallergenic cat food formulated for cats with food allergies or sensitivities, featuring limited ingredients and avoiding common allergens.",
-        "BrandId": "Purrfect Naturals"
+        "Brand": "Purrfect Naturals"
     }
 ]
