@@ -4,9 +4,9 @@
         "ProductName": "Premium Cat Food",
         "GraphicName": "premium_cat_food.png",
         "CostPrice": 10.99,
-        "MSRP": 14.99,
-        "QtyOnHand": 100,
-        "QtyOnBackOrder": 5,
+        "MSRP": 509.99,
+        "QtyOnHand": 1,
+        "QtyOnBackOrder": 0,
         "Description": "High-quality cat food with essential nutrients for optimal feline health and vitality.",
         "Brand": "Whisker's Choice"
     },
@@ -15,8 +15,8 @@
         "ProductName": "Healthy Cat Chow",
         "GraphicName": "healthy_cat_chow.png",
         "CostPrice": 8.99,
-        "MSRP": 12.99,
-        "QtyOnHand": 75,
+        "MSRP": 599.99,
+        "QtyOnHand": 1,
         "QtyOnBackOrder": 0,
         "Description": "Balanced cat food made from natural ingredients to support your cat's overall well-being and immune system.",
         "Brand": "Whisker's Choice"
