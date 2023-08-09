@@ -104,8 +104,8 @@
         "GraphicName": "hairball_control_cat_food.png",
         "CostPrice": 9.99,
         "MSRP": 299.99,
-        "QtyOnHand": 110,
-        "QtyOnBackOrder": 4,
+        "QtyOnHand": 1,
+        "QtyOnBackOrder": 0,
         "Description": "Specialized cat food that helps reduce hairballs by promoting healthy digestion and minimizing shedding.",
         "Brand": "Whisker's Choice"
     },
